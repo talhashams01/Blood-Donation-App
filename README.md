@@ -35,7 +35,7 @@ User Features
 
 📋 My Requests: View all personal blood requests with the ability to mark them as completed once fulfilled.
 
-📍 Nearby Requests: See blood requests from users in the same city/location for quick action.
+📍 Nearby Donors: See nearby donors in the same city/location for quick action.
 
 🧠 Health Tips: Stay informed with curated blood donation and health tips.
 
@@ -107,12 +107,11 @@ Delete Account
 
 Layer	Description
 
-Frontend	Flutter-based UI using Material widgets and custom animations
-State Management	Riverpod for clean and reactive logic
-Backend	Firebase Firestore for real-time data
-Storage	Firebase Storage for profile and data uploads
-Authentication	Firebase Auth for user management
-Calls & Links	url_launcher for phone call actions
+Frontend	Flutter-based UI using Material widgets and custom animations.
+State Management	Riverpod for clean and reactive logic.
+Backend	Firebase Firestore for real-time data.
+Authentication	Firebase Auth for user management.
+Calls & Links	url_launcher for phone call actions.
 
 
 ---
