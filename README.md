@@ -103,15 +103,24 @@ Delete Account
 
 ---
 
-🏗 App Architecture
+🧩 Tech Stack
 
-Layer	Description
+Frontend:
 
-Frontend	Flutter-based UI using Material widgets and custom animations.
-State Management	Riverpod for clean and reactive logic.
-Backend	Firebase Firestore for real-time data.
-Authentication	Firebase Auth for user management.
-Calls & Links	url_launcher for phone call actions.
+Flutter (Dart) — Cross-platform UI framework for Android, iOS, and Web
+
+Riverpod — Modern state management for efficient app-wide data flow
+
+Material Design — For a clean, consistent, and responsive UI
+
+
+Backend & Database:
+
+Firebase Authentication — Secure login/signup and role-based access (Donor/User)
+
+Firebase Firestore — Cloud NoSQL database for storing users, donors, and requests
+
+Firebase Cloud Messaging — For future push notification integration
 
 
 ---
